@@ -1,5 +1,6 @@
 extends Node2D
 
+var a = 0
 var forms = [1,2,3,4]
 var array_number_of_time_bot_plays = []
 var number_of_time_bot_plays
